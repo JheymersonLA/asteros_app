@@ -9,6 +9,14 @@
       "developerName": "JheymersonLA",
       "versions": [
         {
+          "version": "1.0.0.1",
+          "date": "2025-06-20T04:45:26Z",
+          "localizedDescription": "Build: 1. Base: 1.0.0. Release automatizado.",
+          "downloadURL": "https://github.com/JheymersonLA/asteros_app/releases/download/v1.0.0.1/app-unsigned.ipa",
+          "size": 22433896,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.0.0",
           "date": "2025-06-20T04:40:00Z",
           "localizedDescription": "Versão inicial do Asteros, o seu gerador de horóscopo personalizado.",
