@@ -1,7 +1,7 @@
 {
   "name": "JheymersonLA's AltStore Apps",
   "identifier": "com.jheymersonla.altstore.asteros",
-  "sourceURL": "https://raw.githubusercontent.com/JheymersonLA/asteros-app/main/altstore_source.json",
+  "sourceURL": "https://raw.githubusercontent.com/JheymersonLA/asteros_app/main/altstore_source.json",
   "apps": [
     {
       "name": "Asteros App",
