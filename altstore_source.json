@@ -1,0 +1,37 @@
+{
+  "name": "JheymersonLA's AltStore Apps",
+  "identifier": "com.jheymersonla.altstore.asteros",
+  "sourceURL": "https://raw.githubusercontent.com/JheymersonLA/asteros-app/main/altstore_source.json",
+  "apps": [
+    {
+      "name": "Asteros App",
+      "bundleIdentifier": "com.jheymersonla.asteros",
+      "developerName": "JheymersonLA",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-06-20T04:40:00Z",
+          "localizedDescription": "Versão inicial do Asteros, o seu gerador de horóscopo personalizado.",
+          "downloadURL": "https://github.com/JheymersonLA/asteros-app/releases/download/v1.0.0/app-unsigned.ipa",
+          "size": 25000000,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/JheymersonLA/asteros-app/main/assets/app_icon.png",
+      "tintColor": "FFC107",
+      "permissions": [],
+      "screenshotURLs": [],
+      "localizedDescription": "Gere seu horóscopo personalizado com base nos seus dados de nascimento. Uma experiência única com a ajuda da IA.",
+      "subtitle": "Seu horóscopo personalizado"
+    }
+  ],
+  "news": [
+    {
+      "title": "Lançamento do Asteros App!",
+      "identifier": "source-init-jheymersonla-asteros",
+      "caption": "Bem-vindo ao Asteros! Gere seu horóscopo personalizado com IA.",
+      "date": "2025-06-20T01:40:00-03:00",
+      "tintColor": "FFC107"
+    }
+  ]
+}
