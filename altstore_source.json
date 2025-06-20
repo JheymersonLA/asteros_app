@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Asteros App",
-      "bundleIdentifier": "com.jheymersonla.asteros",
+      "bundleIdentifier": "com.example.asterosApp",
       "developerName": "JheymersonLA",
       "versions": [
         {

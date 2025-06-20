@@ -92,7 +92,7 @@ jobs:
           
           # --- ALTERAÇÃO PRINCIPAL AQUI ---
           # Atualizado para corresponder ao bundleIdentifier do Asteros App no seu JSON.
-          APP_BUNDLE_ID="com.jheymersonla.asteros" 
+          APP_BUNDLE_ID="com.example.asterosApp" 
           echo "APP_BUNDLE_ID=${APP_BUNDLE_ID}" >> $GITHUB_ENV
 
           echo "Versão Base (pubspec): ${PUB_VERSION_BASE}"
