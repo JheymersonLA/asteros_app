@@ -9,6 +9,14 @@
       "developerName": "JheymersonLA",
       "versions": [
         {
+          "version": "1.0.0.3",
+          "date": "2025-06-20T04:53:27Z",
+          "localizedDescription": "Build: 3. Base: 1.0.0. Release automatizado.",
+          "downloadURL": "https://github.com/JheymersonLA/asteros_app/releases/download/v1.0.0.3/app-unsigned.ipa",
+          "size": 22433897,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.0.0.2",
           "date": "2025-06-20T04:50:40Z",
           "localizedDescription": "Build: 2. Base: 1.0.0. Release automatizado.",
