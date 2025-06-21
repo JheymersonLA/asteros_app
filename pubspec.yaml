@@ -30,10 +30,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+  
+  flutter_svg: ^2.0.10+1
   http: ^1.2.1
   intl: ^0.20.2
-  geolocator: ^12.0.0
-  geocoding: ^3.0.0
+  geolocator: ^14.0.1
+  geocoding: ^4.0.0
 
 dev_dependencies:
   flutter_test:
@@ -56,6 +61,26 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+      - assets/images/
+      - assets/svgs/
+      - assets/icons/
+
+  fonts:
+      - family: Gilroy  # O nome da família da fonte
+        fonts:
+          # Fonte Regular
+          - asset: assets/fonts/Gilroy-Regular.ttf
+            # O peso normal é 400, que é o padrão. Não precisa declarar.
+
+          # Fonte Regular em Itálico
+          - asset: assets/fonts/Gilroy-Regular-Italic.ttf
+            style: italic
+
+          # Fonte "Black", que é um peso bem alto (mais pesado que bold)
+          - asset: assets/fonts/Gilroy-Black.ttf
+            weight: 900 # O peso 900 corresponde ao "Black" ou "Heavy"
 
   # To add assets to your application, add an assets section, like this:
   # assets:

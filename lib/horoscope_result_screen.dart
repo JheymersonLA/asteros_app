@@ -150,7 +150,7 @@ class _HoroscopeResultScreenState extends State<HoroscopeResultScreen> {
         children: [
           Row(
             children: [
-              Icon(icon, color: Colors.amber, size: 24),
+              Icon(icon, color: Colors.amber, size: 18),
               const SizedBox(width: 8),
               Text(title, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
             ],
